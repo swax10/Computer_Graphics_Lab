@@ -1264,8 +1264,8 @@ void init_clip() {
     Point win_min = {70, 70};
     Point win_max = {470, 290};
     draw_window(win_min, win_max);
-    Point p1 = {80, 80};
-    Point p2 = {500, 130};
+    Point p1 = {50, 80};
+    Point p2 = {500, 170};
     glColor3f(0, 1, 0);
     glBegin(GL_LINES);
     glVertex2i(round(p1.x), round(p1.y));
