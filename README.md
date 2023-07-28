@@ -35,7 +35,7 @@ chmod 777 ./m.sh
 | 10 | 2D Transformations | trans |
 | 11 | Line Clipping Algorithm | cohen |
 
-##Run Script
+## Run Script
 Run script with argument
 ```bash
 ./m.sh [code name]
