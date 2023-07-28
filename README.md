@@ -1,4 +1,4 @@
-# Computer Graphics (CG) Practicals Code
+# Computer Graphics (CG) Lab Code
 
 As there is no adequate code available for computer graphics in C language, this repository contains a bash script for practical exercises for the Computer Graphics course in MU Engineering SEM III. This repository's primary goal is to give teachers and students a one stop resource for referencing and studying.
 
